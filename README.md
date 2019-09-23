@@ -1,17 +1,40 @@
-<p align="center"><img alt="一起记录，17mark" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-一起记录，17mark
+<p align="center"><img alt="一起记录  17mark" src="http://106.13.150.134/images/logo.png"></p><h2 align="center">
+一起记录  17mark
 </h2>
 
 <h4 align="center">记录点滴人生。</h4>
-<p align="center"><a title="一起记录，17mark" target="_blank" href="https://github.com/a929569603/solo-blog"><img src="https://img.shields.io/github/last-commit/a929569603/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="一起记录  17mark" target="_blank" href="https://github.com/a929569603/solo-blog"><img src="https://img.shields.io/github/last-commit/a929569603/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/a929569603/solo-blog"><img src="https://img.shields.io/github/repo-size/a929569603/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/a929569603/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [阿斯蒂芬](http://17mark.com/articles/2019/08/20/1566282028772.html)
-* [世界，你好！](http://17mark.com/hello-solo)
+* [Jmeter参数中引参数使用方法](http://www.17mark.com/articles/2019/09/09/1568033219735.html)
+* [JMeter详细了解CSV文件参数化设置方法](http://www.17mark.com/articles/2019/09/09/1568032960767.html)
+* [JMeter负载机配置](http://www.17mark.com/articles/2019/09/09/1568030904613.html)
+* [jmeter修改自身启动IP](http://www.17mark.com/articles/2019/09/09/1568029916314.html)
+* [jmeter跨线程组传参](http://www.17mark.com/articles/2019/09/09/1568028784034.html)
+* [教你查看连接到手机热点设备的IP。](http://www.17mark.com/articles/2019/09/07/1567849707822.html)
+* [ADB常用命令整理。](http://www.17mark.com/articles/2019/09/05/1567685501610.html)
+* [HTMLTestRunner美化附源码。](http://www.17mark.com/articles/2019/09/05/1567684733390.html)
+* [java--windows文件操作](http://www.17mark.com/articles/2019/08/22/1566472661081.html)
+* [记开发性能自动化接口过程中的一些问题](http://www.17mark.com/articles/2019/08/22/1566472660836.html)
+* [java发送POST请求，请求数据为json格式](http://www.17mark.com/articles/2019/08/22/1566472660499.html)
+* [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
+* [ADB常用命令整理。](http://www.17mark.com/articles/2019/08/22/1566472004578.html)
+* [教你查看连接到手机热点设备的IP。](http://www.17mark.com/articles/2019/08/22/1566472004034.html)
+* [系统监视和进程控制工具--top和free](http://www.17mark.com/articles/2019/08/22/1566468954326.html)
+* [Linux目录和文件的浏览、管理及维护](http://www.17mark.com/articles/2019/08/22/1566468954080.html)
+* [Linux-输入-输出和管道（-）及相关的命令](http://www.17mark.com/articles/2019/08/22/1566468953744.html)
+* [系统监视和进程控制工具--vmstat和iostat](http://www.17mark.com/articles/2019/08/22/1566468953339.html)
+* [Linux不同系统之间传输文件及文件的浏览](http://www.17mark.com/articles/2019/08/22/1566468951932.html)
+* [Linux运行Linux命令及获取帮助](http://www.17mark.com/articles/2019/08/22/1566468951373.html)
+
+### 热门
+
+* [用户、群组和权限](http://www.17mark.com/articles/2019/08/22/1566468950958.html)
+* [Linux-Bash-Shell简介](http://www.17mark.com/articles/2019/08/22/1566468950344.html)
 
 
 
