@@ -24,19 +24,17 @@
 * [记开发性能自动化接口过程中的一些问题](http://www.17mark.com/articles/2019/08/22/1566472660836.html)
 * [java发送POST请求，请求数据为json格式](http://www.17mark.com/articles/2019/08/22/1566472660499.html)
 * [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
-* [ADB常用命令整理。](http://www.17mark.com/articles/2019/08/22/1566472004578.html)
-* [教你查看连接到手机热点设备的IP。](http://www.17mark.com/articles/2019/08/22/1566472004034.html)
 * [系统监视和进程控制工具--top和free](http://www.17mark.com/articles/2019/08/22/1566468954326.html)
 * [Linux目录和文件的浏览、管理及维护](http://www.17mark.com/articles/2019/08/22/1566468954080.html)
 * [Linux-输入-输出和管道（-）及相关的命令](http://www.17mark.com/articles/2019/08/22/1566468953744.html)
 * [系统监视和进程控制工具--vmstat和iostat](http://www.17mark.com/articles/2019/08/22/1566468953339.html)
+* [Linux不同系统之间传输文件及文件的浏览](http://www.17mark.com/articles/2019/08/22/1566468951932.html)
+* [Linux运行Linux命令及获取帮助](http://www.17mark.com/articles/2019/08/22/1566468951373.html)
 
 ### 热门
 
 * [Linux-Bash-Shell简介](http://www.17mark.com/articles/2019/08/22/1566468950344.html)
 * [用户、群组和权限](http://www.17mark.com/articles/2019/08/22/1566468950958.html)
-* [Linux不同系统之间传输文件及文件的浏览](http://www.17mark.com/articles/2019/08/22/1566468951932.html)
-* [Linux运行Linux命令及获取帮助](http://www.17mark.com/articles/2019/08/22/1566468951373.html)
 * [游客评论记录贴](http://www.17mark.com/articles/2019/09/26/1569463805137.html)
 
 
