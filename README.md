@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [selenium自带API总结](http://www.17mark.com/articles/2019/11/13/1573613897822.html)
 * [web_UI自动化一些个人见解。](http://www.17mark.com/articles/2019/11/07/1573096237296.html)
 * [总结常见的测试相关工具管理系统等。](http://www.17mark.com/articles/2019/10/25/1571999874493.html)
 * [总结几点工作经验](http://www.17mark.com/articles/2019/10/25/1571983909446.html)
@@ -29,7 +30,6 @@
 * [java--windows文件操作](http://www.17mark.com/articles/2019/08/22/1566472661081.html)
 * [记开发性能自动化接口过程中的一些问题](http://www.17mark.com/articles/2019/08/22/1566472660836.html)
 * [java发送POST请求，请求数据为json格式](http://www.17mark.com/articles/2019/08/22/1566472660499.html)
-* [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@
 * [Linux目录和文件的浏览、管理及维护](http://www.17mark.com/articles/2019/08/22/1566468954080.html)
 * [Linux运行Linux命令及获取帮助](http://www.17mark.com/articles/2019/08/22/1566468951373.html)
 * [Linux不同系统之间传输文件及文件的浏览](http://www.17mark.com/articles/2019/08/22/1566468951932.html)
+* [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
 * [系统监视和进程控制工具--top和free](http://www.17mark.com/articles/2019/08/22/1566468954326.html)
 * [游客评论记录贴](http://www.17mark.com/articles/2019/09/26/1569463805137.html)
 
