@@ -40,8 +40,8 @@
 * [Linux目录和文件的浏览、管理及维护](http://www.17mark.com/articles/2019/08/22/1566468954080.html)
 * [Linux运行Linux命令及获取帮助](http://www.17mark.com/articles/2019/08/22/1566468951373.html)
 * [Linux不同系统之间传输文件及文件的浏览](http://www.17mark.com/articles/2019/08/22/1566468951932.html)
-* [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
 * [系统监视和进程控制工具--top和free](http://www.17mark.com/articles/2019/08/22/1566468954326.html)
+* [Appium自动化测试之环境安装](http://www.17mark.com/articles/2019/08/22/1566472004945.html)
 * [java发送POST请求，请求数据为json格式](http://www.17mark.com/articles/2019/08/22/1566472660499.html)
 * [游客评论记录贴](http://www.17mark.com/articles/2019/09/26/1569463805137.html)
 
